@@ -12,6 +12,7 @@ Skills:
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning TypeScript 
 - 📫 How to reach me: guthribm@gmail.com 
+- 💻 View my portfolio: https://guthribm.github.io/cv/
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/guthribm)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/guthribm/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://guthribm.github.io/cv/)  
