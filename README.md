@@ -10,7 +10,7 @@ Skills:
 💻 HTML5 / CSS3 / JavaScript ES6
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning TypeScript 
+- 🌱 I’m currently learning Node.js and Express.js 
 - 📫 How to reach me: guthribm@gmail.com 
 - 💻 View my portfolio: https://guthribm.github.io/cv/
 
